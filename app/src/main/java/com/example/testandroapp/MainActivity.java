@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     public void checkTmp(){
         System.out.println("this is my check temp print");
     }
+
 //    public void tstClick(View view){
 //        et_mail = (EditText) findViewById(R.id.et_mail);
 //        et_password = (EditText) findViewById(R.id.et_password);
